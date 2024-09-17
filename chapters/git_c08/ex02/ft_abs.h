@@ -3,10 +3,10 @@
 /*                                                        :::      ::::::::   */
 /*   ft_abs.h                                           :+:      :+:    :+:   */
 /*                                                    +:+ +:+         +:+     */
-/*   By: kfontani <marvin@42.fr>                    +#+  +:+       +#+        */
+/*   By:  <marvin@42.fr>                    +#+  +:+       +#+        */
 /*                                                +#+#+#+#+#+   +#+           */
-/*   Created: 2024/07/29 14:35:58 by kfontani          #+#    #+#             */
-/*   Updated: 2024/07/29 17:47:12 by kfontani         ###   ########.fr       */
+/*   Created: 2024/07/29 14:35:58 by           #+#    #+#             */
+/*   Updated: 2024/07/29 17:47:12 by          ###   ########.fr       */
 /*                                                                            */
 /* ************************************************************************** */
 
@@ -22,4 +22,4 @@ int	abs(int value)
 }
 # define ABS(Value) (abs(Value))
 
-#endif
+#endif even number of argument

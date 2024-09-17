@@ -3,10 +3,10 @@
 /*                                                        :::      ::::::::   */
 /*   ft_recursive_factorial.c                           :+:      :+:    :+:   */
 /*                                                    +:+ +:+         +:+     */
-/*   By: kfontani <marvin@42.fr>                    +#+  +:+       +#+        */
+/*   By:  <marvin@42.fr>                    +#+  +:+       +#+        */
 /*                                                +#+#+#+#+#+   +#+           */
-/*   Created: 2024/07/23 12:41:22 by kfontani          #+#    #+#             */
-/*   Updated: 2024/07/25 13:15:55 by kfontani         ###   ########.fr       */
+/*   Created: 2024/07/23 12:41:22 by           #+#    #+#             */
+/*   Updated: 2024/07/25 13:15:55 by          ###   ########.fr       */
 /*                                                                            */
 /* ************************************************************************** */
 
@@ -28,4 +28,5 @@ int	main()
     n = 5;
     printf("La factorielle de %d est : %d\n", n, ft_recursive_factorial(n));
     return (0);
-}*/
+}*/sult = result * 10 + (b));
+  

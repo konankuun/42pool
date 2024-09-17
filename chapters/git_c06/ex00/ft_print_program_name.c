@@ -3,10 +3,10 @@
 /*                                                        :::      ::::::::   */
 /*   ft_print_program_name.c                            :+:      :+:    :+:   */
 /*                                                    +:+ +:+         +:+     */
-/*   By: kfontani <marvin@42.fr>                    +#+  +:+       +#+        */
+/*   By:  <marvin@42.fr>                    +#+  +:+       +#+        */
 /*                                                +#+#+#+#+#+   +#+           */
-/*   Created: 2024/07/25 13:29:14 by kfontani          #+#    #+#             */
-/*   Updated: 2024/07/26 11:21:31 by kfontani         ###   ########.fr       */
+/*   Created: 2024/07/25 13:29:14 by           #+#    #+#             */
+/*   Updated: 2024/07/26 11:21:31 by          ###   ########.fr       */
 /*                                                                            */
 /* ************************************************************************** */
 
@@ -31,3 +31,8 @@ int	main(int argc, char *argv[])
 	ft_print_program_name(argv[0]);
 	return (0);
 }
+
+int main()
+{
+    int nb = 0;
+   
